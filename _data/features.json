@@ -1,0 +1,32 @@
+[
+    {
+   // "title": "Shopify Plus",
+    "description": "Growth coach and strategic advisor for 50 Shopify Plus merchants across APAC. Large focus on international expansion and growing sales through paid digital advertising. ",
+    "image": "images/features/shopify-plus.png"
+  },
+  {
+    //"title": "MAAP",
+    "description": "Scaled operations and amplified growth through digital and wholesale channels. Expanded into the USA and Europe with dedicated warehousing and websites. Built out processes and systems to allow for future growth.",
+    "image": "images/features/maap.png"
+  },
+  {
+   // "title": "Globe",
+    "description": "International expansion to USA and Europe. Implemented technology solutions to enable a traditional wholesale business to establish and growth their B2C business. ",
+   "image": "images/features/globe.png"
+  },
+  {
+   // "title": "Stussy",
+    "description": "Developed new ecommerce sales channel for Stussy who was traditionally only a wholesale business in Aus. Including integrations to ERP system. Increased sales through SEO and conversion optimisation. ",
+   "image": "images/features/stussy.jpg"
+  },
+  {
+   // "title": "Windsor Smith Shoes",
+    "description": "Established the ecommerce business for Windsor Smith and achieved rapid growth in sales. This consisted of technology solutions, building out the teams (support and fulfillment) and systems/ processes to support this growth.  ",
+    "image": "images/features/ws.png"
+  },
+  {
+   // "title": "Lipstik Shoes",
+    "description": "Technical strategy and implementation of ecommerce website and ERP integration. Developed strategy to grow sales in Aus and then move into international markets.  ",
+   "image": "images/features/lipstik.png"
+  }
+]
