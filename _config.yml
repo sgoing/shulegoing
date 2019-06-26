@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: 'shulegoing'
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
