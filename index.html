@@ -6,10 +6,10 @@ bodyClass: page-home
 
 <div class="intro pb-4">
   <div class="container">
-      <h1 style = "margin-top: 100px;">Shule Going Ecommerce Consultant</h1>
+      <h1 style = "margin-top: 100px;">Shule Going<br>Ecommerce Consultant</h1>
     <p>I help businesses make more money online and scale operations to support growth.</p>
       <p>Working as an independent ecommerce consultant I typically partner with businesses with under optimised ecommerce sales channels and I have assisted with taking them into a high growth phase through executing successful digital advertising campaigns, implementing the right systems, and building teams.</p>
-    <p>If you’re looking for high impact changes within your business or assistance with a particular project I’d love to talk to you. 📈👇 
+    <p>If you’re looking for high impact changes within your business or assistance with a particular project I’d love to talk to you.👇 
 </p>
   </div>
 </div>
@@ -33,15 +33,16 @@ bodyClass: page-home
 <div class="container pt-8 pt-md-10">
   <div class="row justify-content-start">
     <div class="col-12">
-      <h2 class="title-3 text-dark mb-3">Services</h2>
-        <p>Every project I approach is bespoke and designed for the best outcome across five key aspects of retail businesses, customer acquisition, customer retention, website optimisation, technology solutions and operations.</p><br>
+      <h2 class= "title-3 text-dark mb-3">Services</h2>
+        <p>Every project I approach is bespoke and designed for the best outcome across five key business areas</p><br>
     </div>
     {% for service in site.services %}
     <div class="col-12 col-md-4 mb-1">
       <div class="service service-summary">
         <div class="service-content">
           <h2 class="service-title">
-            <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+              {{ service.title }}
+            <!--<a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>-->
           </h2>
           {{ service.content | markdownify | strip_html | truncate: 200 }}
         </div>
@@ -63,7 +64,9 @@ bodyClass: page-home
     <div class="col-12 col-md-6 col-lg-4 mb-2">
       <div class="feature">
         {% if feature.image %}<div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image }}" /></div> {% endif %}
-        <h2 class="feature-title">{{ feature.title }}</h2>
+        <h2 class="feature-title">
+            <a target="_blank"  rel="noopener noreferrer" href="{{site.baseurl}}{{ feature.url }}">{{ feature.title }}</a>
+          </h2>
         <div class="feature-content">{{ feature.description }}</div>
       </div>
     </div>
