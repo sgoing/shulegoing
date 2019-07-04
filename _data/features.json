@@ -1,38 +1,38 @@
 [
     {
-    //"title": "Shopify Plus",
+    "title": "Shopify Plus",
     "url": "https://www.shopify.com/plus",
     "description": "Growth coach and strategic advisor for 50 Shopify Plus merchants across APAC. Large focus on international expansion and growing sales through paid digital advertising. ",
-   "image": "images/features/shopify-plus.png"
+   //"image": "images/features/shopify-plus.png"
   },
   {
-    //"title": "MAAP",
+    "title": "MAAP",
      "url": "https://maap.cc/",
     "description": "Scaled operations and amplified growth through digital and wholesale channels. Expanded into the USA and Europe with dedicated warehousing and websites. Built out processes and systems to allow for future growth.",
-    "image": "images/features/maap.png"
+    //"image": "images/features/maap.png"
   },
   {
-   //"title": "Globe",
+   "title": "Globe",
       "url": "https://globebrand.com/",
     "description": "International expansion to USA and Europe. Implemented technology solutions to enable a traditional wholesale business to establish and growth their B2C business. ",
-   "image": "images/features/globe.png"
+   //"image": "images/features/globe.png"
   },
   {
-   // "title": "Stussy",
+   "title": "Stussy",
       "url": "http://stussy.com.au/",
     "description": "Developed new ecommerce sales channel for Stussy who was traditionally only a wholesale business in Aus. Including integrations to ERP system. Increased sales through SEO and conversion optimisation. ",
-  "image": "images/features/stussy.jpg"
+  //"image": "images/features/stussy.jpg"
   },
   {
-   // "title": "Windsor Smith",
+    "title": "Windsor Smith",
       "url": "https://www.windsorsmith.com.au/",
     "description": "Established the ecommerce business for Windsor Smith and achieved rapid growth in sales. This consisted of technology solutions, building out the teams (support and fulfillment) and systems/ processes to support this growth.  ",
-   "image": "images/features/ws.png"
+   //"image": "images/features/ws.png"
   },
   {
-    //"title": "Lipstik",
+    "title": "Lipstik",
       "url": "https://www.lipstikshoes.com.au/",
     "description": "Technical strategy and implementation of ecommerce website and ERP integration. Developed strategy to grow sales in Aus and then move into international markets.  ",
-    "image": "images/features/lipstik.png"
+    //"image": "images/features/lipstik.png"
   }
 ]
