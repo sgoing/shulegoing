@@ -1,20 +1,20 @@
 .page-home {
-  background-image: url('../images/undraw_deliveries_131a.svg');
+  background-image: url('../images/brands-grid.jpg');
   background-repeat: no-repeat;
   background-size: 115%;
-  background-color: #aeb9ff;
-  background-position: 49px -40px;
+  background-color: white;//#aeb9ff;
+  background-position: 49px -20px;
   @include media-breakpoint-up(sm) {
     background-size: 90%;
-    background-position: 159px -40px;
+    background-position: 159px 0px;
   }
   @include media-breakpoint-up(md) {
     background-size: 70%;
-    background-position: 100% -50px;
+    background-position: 100% 0px;
   }
   @include media-breakpoint-up(lg) {
-    background-size: 60%;
-    background-position: 100% -70px;
+    background-size: 50%;
+    background-position: 100% 0px;
   }
   .call {
     position: relative;
